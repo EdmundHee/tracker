@@ -1,0 +1,19 @@
+{
+  "name": "tracker",
+  "version": "1.0.0",
+  "description": "tracker",
+  "main": "tracker.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EdmundHee/tracker.git"
+  },
+  "author": "EdmundHee",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EdmundHee/tracker/issues"
+  },
+  "homepage": "https://github.com/EdmundHee/tracker#readme"
+}
