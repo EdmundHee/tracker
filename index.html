@@ -7,8 +7,10 @@
         <title>Tracker Playground</title>
     </head>
     <body>
+        <button id="testing-btn">TEST</button>
         <script src="snail.js"></script>
         <script>
+            document.addEventListener("DOMContentLoaded", function(e){console.log(document.querySelector("html").innerHTML)});
             window.onload = function() {init();}
         </script>
     </body>
